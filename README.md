@@ -10,4 +10,5 @@ You can find some knowledge i've gathered over the years in my GitHub.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohanCR97&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanCR97)](https://github.com/anuraghazra/github-readme-stats)
 
