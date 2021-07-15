@@ -13,5 +13,5 @@ You can find some knowledge i've gathered over the years in my GitHub.
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=MohanCR97&theme=darkhub&no-bg=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MohanCR97&theme=darkhub&no-bg=true" />
 </a>
