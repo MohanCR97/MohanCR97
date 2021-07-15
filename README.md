@@ -6,6 +6,6 @@ Apart from Data Science my intrests include Blockchain⛓,Trading📉📈,Sports
 <a href="https://www.linkedin.com/in/mohan-c-r/">Click here</a> to know more about me.</br>
 You can find some knowledge i've gathered over the years in my GitHub.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohanCR97&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohanCR97&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
