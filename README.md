@@ -12,3 +12,6 @@ You can find some knowledge i've gathered over the years in my GitHub.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohanCR97" />
 </a>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=MohanCR97&theme=darkhub&no-bg=true" />
+</a>
