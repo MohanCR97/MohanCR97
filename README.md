@@ -8,4 +8,9 @@ You can find some knowledge i've gathered over the years in my GitHub.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohanCR97&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<a href="https://github.com/MohanCR97/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohanCR97&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohanCR97&repo=convoychat" />
+</a>
