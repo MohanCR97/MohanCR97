@@ -1,4 +1,4 @@
-<center>### Hi there 👋</center>
+### Hi there 👋
 
 I'm <B>Mohan CR</B>. A <B>Data Science specialist<B> in the making 👨‍💻.</br>
 Post Graduate in Data Science and Engineering👨‍🎓.I take pride in building models👨‍🔧 that translate data points into business insights📊</br>
